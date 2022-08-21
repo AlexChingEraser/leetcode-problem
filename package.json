@@ -1,0 +1,21 @@
+{
+  "name": "leetcode-problem",
+  "version": "1.0.0",
+  "description": "https://leetcode-cn.com/problems/-力扣problems",
+  "type": "module",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexChingEraser/leetcode-problem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexChingEraser/leetcode-problem/issues"
+  },
+  "homepage": "https://github.com/AlexChingEraser/leetcode-problem#readme"
+}
